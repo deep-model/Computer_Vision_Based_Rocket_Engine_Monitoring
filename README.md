@@ -9,7 +9,7 @@
 <img width="800" height="600" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine.png"/>
 
 ## Computer Vision Based Applications using HSV Segmentation
-HSV-based image segmentation is a powerful and efficient computer vision technique for monitoring asset performance which provides unsupervised and supervised AI rationalization in real-time using thermal forward-looking infrared (FLIR) imagery. Unlike traditional RGB color spaces, HSV (Hue, Saturation, Value) image segmentation separates color information from intensity, making it highly effective for isolating thermal signatures associated with fluid levels, surface temperatures, and structural variations which can be applied to liquid terminal storage tanks and many additional asset monitoring applications. 
+HSV-based image segmentation is a powerful and efficient computer vision technique for monitoring asset performance which provides unsupervised and supervised AI rationalization in real-time using thermal forward-looking infrared (FLIR) imagery. Unlike traditional RGB color spaces, HSV (Hue, Saturation, Value) image segmentation separates color information from intensity, making it highly effective for isolating thermal signatures associated with liquified natural gas, surface temperatures, and structural variations which can be applied to rocket engines, presseure tanks, pumps, and many additional asset monitoring applications. 
 
 ## HSV-Induced Image Segmentation Process
 The figure below illustrates the HSV image segmentation process for HSV-based image analysis which generally consists of folliwng steps:
