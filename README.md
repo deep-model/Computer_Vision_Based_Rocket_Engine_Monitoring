@@ -6,7 +6,7 @@
 
 ## Applications in Aerospace Monitoring Rocket Nozzle, Pump, and Chamber Performance
 
-<img width="800" height="600" alt="image" src="https://github.com/deep-model/Computer-Vision-Based-Asset-Monitoring-with-HSV-Image-Segmentation/blob/main/Rocket%20Engine%20HSV%20processed.png"/>
+<img width="800" height="600" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine.png"/>
 
 ## Computer Vision Based Applications using HSV Segmentation
 HSV-based image segmentation is a powerful and efficient computer vision technique for monitoring asset performance which provides unsupervised and supervised AI rationalization in real-time using thermal forward-looking infrared (FLIR) imagery. Unlike traditional RGB color spaces, HSV (Hue, Saturation, Value) image segmentation separates color information from intensity, making it highly effective for isolating thermal signatures associated with fluid levels, surface temperatures, and structural variations which can be applied to liquid terminal storage tanks and many additional asset monitoring applications. 
@@ -47,7 +47,7 @@ Once segmented, connected-component analysis or contour detection is used to ide
 ## Applications in Real-Time Asset Monitoring
 In real-time applications, HSV image processing can be integrated with live camera feeds to continuously monitor tank asset conditions. The system can dynamically update thresholds, track temporal changes, and trigger alerts when abnormal thermal patterns are detected, such as unexpected variable temperature  changes in cooling (possible emptying or leakage) or overheating (indicating process deviations), leak detection, and dynamic material balancing and process rationalization. This approach is particularly valuable in industrial environments where direct level measurement may be limited or where non-invasive monitoring is preferred and complimentary to inferred measurement as reinforcement. The image below illustrates the computer vision processed image featuring reinforced level measurement based on HSV image segmentation.
 
-<img width="800" height="600" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine%20HSV%20processed.png"/>
+<img width="800" height="600" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine.png"/>
 
 ## Conclusion
 While HSV-based segmentation does not provide absolute temperature measurements unless radiometric data is available, it offers a robust method for relative thermal analysis and trend detection. When combined with historical baselines and process knowledge, computer vision based HSV analysis enables predictive insights into process and asset behavior, improving operational safety, reliability, and efficiency.
