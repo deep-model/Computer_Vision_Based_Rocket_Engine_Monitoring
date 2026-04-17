@@ -25,7 +25,7 @@ The figure below illustrates the HSV image segmentation process for HSV-based im
 In thermal imaging, temperature variations are represented through color gradients typically including white and yellow for hot regions, red and orange for warm, and finally purple and blue for cooler areas. By transforming FLIR images into HSV dimensional space, these thermal color signatures can be segmented into distinct regions based on predefined thresholds. For example, warmer fluid regions within a tank may exhibit different thermal characteristics than vapor space or ambient surroundings, enabling indirect level detection through temperature stratification. This is evident in the Hot and Cold HSV saturated images processed in the computer vision model below.
 
 <p align="left">
-<img width="400" height="200" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine.png"/>
+<img width="400" height="300" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine.png"/>
 <img width="400" height="600" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine%20HSV%20processed.png"/>
 </p>
 
