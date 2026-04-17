@@ -26,7 +26,7 @@ In thermal imaging, temperature variations are represented through color gradien
 
 <p align="left">
 <img width="400" height="300" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine.png"/>
-<img width="400" height="500" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine%20HSV%20processed.png"/>
+<img width="400" height="600" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Rocket_Engine_Monitoring/blob/main/Rocket%20Engine%20HSV%20processed.png"/>
 </p>
 
 ## HSV-Threshold Induced Image Segmentation with Object Masking
